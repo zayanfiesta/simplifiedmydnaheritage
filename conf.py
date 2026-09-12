@@ -29,7 +29,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # -- Options for HTML output -------------------------------------------------
 
 html_theme = 'alabaster'
-html_title = "My MyHeritage Login Already Member: How to Access Your MyHeritage Account Online"
+html_title = "MyHeritage Log In My Account Already Member: Complete MyHeritage Online Login Guide"
 
 # You can still add html_meta here if you want, but with the new Read the Docs addons
 # custom template is the reliable way to inject meta tags.
